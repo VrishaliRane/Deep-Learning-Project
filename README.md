@@ -1,0 +1,2 @@
+# Deep-Learning-Project
+The Deep Learning Admission Prediction project is a comprehensive exploration of utilizing deep neural networks to predict admission outcomes based on various factors. Leveraging an admission dataset, this project employs advanced deep learning techniques to analyze patterns and make predictions that can assist educational institutions in their admission decision processes.
